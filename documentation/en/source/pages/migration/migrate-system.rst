@@ -18,8 +18,6 @@ Automated Migration
 
 Hammr allows you to automated the migration steps listed above by using a yaml or json file.
 
-.. note:: Automated migration is only supported for Linux and for the following target platforms: K5, Microsoft Azure, OpenStack, SUSE Cloud, VMware Vcenter.
-
 .. note:: You will not be able to import the scan and modify the content of the appliance.
 
 In order to launch an automated migration you will need to launch the following command:

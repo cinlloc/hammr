@@ -28,7 +28,7 @@ If you are using JSON:
 The valid keys to use within a migration are:
 
 * ``name`` (mandatory): a string providing the name of the migration.
-* ``os`` (mandatory): a string providing the operating system (linux, windows).
+* ``os`` (mandatory): a string providing the operating system (linux).
 * ``source`` (mandatory): an object describing the live system to migrate.
 * ``target`` (mandatory): an object describing the targeted cloud provider.
 
